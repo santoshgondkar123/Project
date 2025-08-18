@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(177, 171, 163);
+    background-image: url(https://tse4.mm.bing.net/th/id/OIP.4M3DEQLrpAfpvQAvsttHsAHaEo?pid=Api&P=0&h=180);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.container{
+    height: 260px;
+    width: 300px;
+    color: #4cd137;
+    display: flex;
+    flex-direction: column;
+    justify-content:content;
+    text-align: center;
+    align-items: center;
+    padding: 40px;
+    border-radius: 15px;
+    background-color: #2f3640;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 600px;
+    margin-top: 250px;
+}
+input{
+    width: 25px;
+    height: 25px;
+    margin: 8px 3px;
+    font-size: 18px;
+    outline: none;
+    border: 1px solid #ecf0f1;
+    border-radius: 5px;
+    text-align: center;
+    color: #4CD137;
+    background: transparent;    
+}
+button{
+    height: 55px;
+    width: 75px;
+    
+}
+a{
+    color: white;
+}
+button:hover{
+    background-color: rgb(5, 191, 42);
+}
